@@ -8,7 +8,7 @@ Summary:	Setuptools revision control system plugin for Git
 Summary(pl.UTF-8):	Wtyczka setuptools do systemu kontroli wersji Git
 Name:		python-setuptools_git
 Version:	1.2
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/setuptools-git/
